@@ -1,6 +1,6 @@
 {
   "name": "gotifyxy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "sss",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
